@@ -1,4 +1,4 @@
-/* Sage's Custom Vault Analyzer Super End-Game Edition | Highlights Trash | Keeps Top >.05% Armor*/
+/* Sage's Vault Analyzer Super End-Game Edition | Highlights Trash | Keeps Top >.05% Armor*/
 (
 (
 	(
@@ -28,5 +28,5 @@ or
 or
 	((is:armor or is:weapon) and (is:common or is:uncommon))
 )
--(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap)) -is:maxpower -power:pinnaclecap -is:inloadout -is:masterwork -(is:armor -is:armor2.0) -(is:armor source:events) -name:classified
+-(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap)) -is:inloadout -is:masterwork -(is:armor -is:armor2.0) -(is:armor source:events) -name:classified
 )  or (tag:junk -is:maxpowerloadout)
