@@ -1,4 +1,4 @@
-/* Sage's Custom Vault Analyzer Super End-Game Edition | Highlights Trash | Keeps Top >.05% Armor */
+/* Sage's Vault Analyzer Super End-Game Edition | Highlights Trash | Keeps Top >.05% Armor*/
 (
 (
 	(
@@ -11,13 +11,13 @@ or
 	-(source:raid -is:dupelower -source:dcv)
 
 	-(maxbasestatvalue:any)
-	-(basestat:total:>=67)
+	-(basestat:total:>=66)
     	-(basestat:highest:>=29)
-    	-(basestat:highest&secondhighest:>=25.5)
-    	-(basestat:highest&secondhighest&thirdhighest:>=19.666)
-    	-(basestat:highest&secondhighest&thirdhighest&fourthhighest:>=15.75)
-		-(basestat:highest&secondhighest&thirdhighest&fourthhighest&fifthhighest:>=13.2)
-		-(basestat:highest&secondhighest&thirdhighest&fourthhighest&fifthhighest&sixthhighest:>=11.16)
+    	-(basestat:highest&secondhighest:>=25)
+    	-(basestat:highest&secondhighest&thirdhighest:>=19.333)
+    	-(basestat:highest&secondhighest&thirdhighest&fourthhighest:>=15.5)
+		-(basestat:highest&secondhighest&thirdhighest&fourthhighest&fifthhighest:>=13)
+		-(basestat:highest&secondhighest&thirdhighest&fourthhighest&fifthhighest&sixthhighest:>=11)
   )
 or
 	(is:classitem energycapacity:<=9 -is:locked -(source:raid -is:dupelower -source:dcv))
