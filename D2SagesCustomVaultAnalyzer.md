@@ -1,4 +1,4 @@
-/* Sage's Vault Analyzer Super End-Game Edition | Highlights Trash | Keeps Top >.05% Armor*/
+/* Sage's Vault Analyzer Super End-Game Edition | Highlights Trash | Keeps Top >.05% Armor */
 (
 (
 	(
