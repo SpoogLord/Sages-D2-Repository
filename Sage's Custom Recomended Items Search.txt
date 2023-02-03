@@ -1,0 +1,14 @@
+/* Recommended Items Search | For use in the Vendors tab */
+(is:weapon -is:sunset is:wishlist) 
+or 
+(
+	(is:armor -is:classitem -is:dupelower)
+	-(maxbasestatvalue:any)
+	-(basestat:total:<=67)
+    	-(basestat:highest:<=29)
+    	-(basestat:highest&secondhighest:<=25.5)
+    	-(basestat:highest&secondhighest&thirdhighest:<=19.666)
+    	-(basestat:highest&secondhighest&thirdhighest&fourthhighest:<=15.75)
+		-(basestat:highest&secondhighest&thirdhighest&fourthhighest&fifthhighest:<=13.2)
+		-(basestat:highest&secondhighest&thirdhighest&fourthhighest&fifthhighest&sixthhighest:<=11.16)
+  )
