@@ -16,7 +16,7 @@
 			or 
 			-basestat:highest+secondhighest+thirdhighest+fourthhighest:>15
 		)
-		-is:inloadout
+		-is:inloadout -is:equipped
 	) 
 	or 
 	(is:classitem energycapacity:<10 -is:locked -source:raid) 
