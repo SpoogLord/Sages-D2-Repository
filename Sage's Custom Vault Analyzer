@@ -24,6 +24,4 @@
 	(is:armor is:sunset) 
 	or 
 	(is:armor is:blue) or ((is:armor or is:weapon) (is:common or is:uncommon)) -(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap))
-	or
-	-is:inloadout
 )
