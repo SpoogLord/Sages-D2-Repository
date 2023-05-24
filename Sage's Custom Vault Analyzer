@@ -1,10 +1,10 @@
-/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.05% armor V2.04 */ 
+/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.05% armor V2.05 */ 
 (
 	(
 	is:weapon (is:sunset or is:blue)) 
 	or 
 	(
-		is:armor -is:exotic -is:classitem -is:inloadout is:equipped
+		is:armor -is:exotic -is:classitem -is:inloadout -is:equipped
 		-maxbasestatvalue:any 
 		-(basestat:total:>66 or (basestat:total:>64 modslot:artifice)) 
 		(
