@@ -1,26 +1,27 @@
-/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.05% armor V2.05 */ 
+/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.05% armor V2.06*/ 
+
+(is:weapon (is:sunset or is:blue)) 
+or 
 (
+	(is:armor -is:exotic -is:classitem -is:inloadout -is:equipped)
+	-(basestat:total:>=66 or (basestat:total:>=65 modslot:artifice)) 
 	(
-	is:weapon (is:sunset or is:blue)) 
-	or 
-	(
-		is:armor -is:exotic -is:classitem -is:inloadout -is:equipped
-		-maxbasestatvalue:any 
-		-(basestat:total:>66 or (basestat:total:>64 modslot:artifice)) 
-		(
-			-basestat:highest:>27 
-			or 
-			-basestat:highest+secondhighest:>24.5 
-			or 
-			-basestat:highest+secondhighest+thirdhighest:>19 
-			or 
-			-basestat:highest+secondhighest+thirdhighest+fourthhighest:>15
-		)
-	) 
-	or 
-	(is:classitem energycapacity:<10 -is:locked -source:raid) 
-	or 
-	(is:armor is:sunset) 
-	or 
-	(is:armor is:blue) or ((is:armor or is:weapon) (is:common or is:uncommon)) -(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap))
-)
+		basestat:highest:>=30 
+		or 
+		basestat:highest+secondhighest:>=27
+		or 
+		basestat:highest+secondhighest+thirdhighest:>=24.5
+		or 
+		basestat:highest+secondhighest+thirdhighest+fourthhighest:>=15.75
+		or
+		basestat:highest+secondhighest+thirdhighest+fourthhighest+fifthhighest:>=13
+		or
+		basestat:highest+secondhighest+thirdhighest+fourthhighest+fifthhighest+sixthhighest:>=11
+	)
+) 
+or 
+(is:classitem energycapacity:<10 -is:locked -source:raid) 
+or 
+(is:armor is:sunset) 
+or 
+(is:armor is:blue) or ((is:armor or is:weapon) (is:common or is:uncommon)) -(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap))
