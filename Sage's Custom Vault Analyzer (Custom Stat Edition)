@@ -1,11 +1,11 @@
-/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.01% armor V2.09*/ 
+/* Sage's vault analyzer super end-game edition (Custom Stat Edition)| highlights trash | keeps top >.01% armor V2.09*/ 
 
 (
 is:weapon -is:exotic -is:crafted -is:wishlist -(is:tagged -(tag:infuse -power:pinnaclecap)) (is:sunset or is:blue)
 ) 
 or 
 (
-	(is:armor -is:exotic -is:classitem -is:inloadout -is:equipped  -((basestat:total:>66 -is:customstatlower) or (basestat:total:>64 modslot:artifice -is:customstatlower))
+	(is:armor -is:exotic -is:classitem -is:inloadout -is:equipped  -((basestat:total:>66 -is:customstatlower -basestat:custom:<55) or (basestat:total:>64 modslot:artifice -is:customstatlower -basestat:custom:<55))
 		(
 			basestat:highest:>=30 
 			or 
