@@ -1,3 +1,6 @@
+title:Sage's Trash List
+description:
+
 dimwishlist:item=-3653573172
 dimwishlist:item=-2817683783
 dimwishlist:item=-1366394399
