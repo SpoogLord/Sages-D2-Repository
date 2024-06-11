@@ -11,6 +11,7 @@ dimwishlist:item=-1331824604
 dimwishlist:item=-105164264
 
 //Autos
+dimwishlist:item=-3685470415
 dimwishlist:item=-1286686760 
 dimwishlist:item=-3143732432
 dimwishlist:item=-1644162710 
@@ -101,6 +102,7 @@ dimwishlist:item=-4019668921
 dimwishlist:item=-2218569744 
 
 //Pulse Rifles
+dimwishlist:item=-1890332078
 dimwishlist:item=-4138174248
 dimwishlist:item=-3199662972
 dimwishlist:item=-2712244741
@@ -200,6 +202,7 @@ dimwishlist:item=-3354242550
 dimwishlist:item=-174192097 
 
 //Sidearms
+dimwishlist:item=-423343404
 dimwishlist:item=-2084611899 
 dimwishlist:item=-1911843789 
 dimwishlist:item=-2812672356 
@@ -222,6 +225,8 @@ dimwishlist:item=-805677041
 dimwishlist:item=-3622137132 
 
 //Bows
+dimwishlist:item=-2932922810
+dimwishlist:item=-3465233192
 dimwishlist:item=-720351794 
 dimwishlist:item=-421573768 
 dimwishlist:item=-3410721600 
