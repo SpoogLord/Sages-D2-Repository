@@ -180,6 +180,7 @@ dimwishlist:item=-2138599001
 dimwishlist:item=-3569802112 
 
 //SMGs
+dimwishlist:item=-1526296434
 dimwishlist:item=-566976653 
 dimwishlist:item=-2414612776 
 dimwishlist:item=-2414612777 
@@ -228,6 +229,7 @@ dimwishlist:item=-805677041
 dimwishlist:item=-3622137132 
 
 //Bows
+dimwishlist:item=-2513965917
 dimwishlist:item=-2932922810
 dimwishlist:item=-3465233192
 dimwishlist:item=-720351794 
@@ -263,6 +265,8 @@ dimwishlist:item=-3993415705
 dimwishlist:item=-3850168899 
 
 //Fusion Rifles
+dimwishlist:item=-1994645182
+dimwishlist:item=-1994645182
 dimwishlist:item=-3445437901 
 dimwishlist:item=-1773600468 
 dimwishlist:item=-2398848320 
@@ -282,6 +286,7 @@ dimwishlist:item=-4124357815
 dimwishlist:item=-4106983932 
 
 //Sniper Rifles
+dimwishlist:item=-2673925403
 dimwishlist:item=-3312073053 
 dimwishlist:item=-4083045006 
 dimwishlist:item=-3666954563 
@@ -322,6 +327,7 @@ dimwishlist:item=-569799274
 dimwishlist:item=-569799273 
 
 //Heavy GLs
+dimwishlist:item=-3568377122
 dimwishlist:item=-1489452902 
 dimwishlist:item=-2621637518 
 dimwishlist:item=-1983332561 
