@@ -2,7 +2,7 @@
 
 (
 	(
-		is:weapon -is:exotic -is:wishlist -is:crafted -(source:raid -is:patternunlocked deepsight:harmonizable) -is:wishlistunknown
+		is:weapon -is:exotic -is:crafted -(source:raid -is:patternunlocked deepsight:harmonizable) ((-is:wishlist) or (is:wishlist is:patternunlocked))  -is:wishlistunknown
 	) 
 	or 
 	(
