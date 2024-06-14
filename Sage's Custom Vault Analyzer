@@ -21,6 +21,6 @@
 	or 
 	(is:classitem energycapacity:<10 -(source:raid -(is:dupelower)) -is:exotic) 
 	or 
-	(is:armor is:blue) or ((is:armor or is:weapon) (is:common or is:uncommon))
+	((is:armor or is:weapon) (is:common or is:uncommon or is:rare))
 )
--(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap) 
+-(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap))
