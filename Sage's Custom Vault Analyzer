@@ -1,4 +1,4 @@
-/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.01% armor V2.2*/ 
+/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.01% armor V2.4*/ 
 
 (
 	(
@@ -20,7 +20,5 @@
 	) 
 	or 
 	(is:classitem energycapacity:<10 -(source:raid -(is:dupelower)) -is:exotic) 
-	or 
-	((is:armor or is:weapon) (is:common or is:uncommon or is:rare))
 )
--(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap))
+-(is:tagged -tag:junk -(tag:infuse -power:pinnaclecap)) -(is:common or is:uncommon or is:rare) -is:maxpowerloadout
