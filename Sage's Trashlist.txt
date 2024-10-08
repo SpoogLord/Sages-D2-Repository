@@ -1,6 +1,13 @@
 title:Sage's Trash List
 description:
 
+dimwishlist:item=-2434225986
+dimwishlist:item=-487205709
+dimwishlist:item=-4037745684
+dimwishlist:item=-2742490609
+dimwishlist:item=-3055192515
+dimwishlist:item=-3512349612
+dimwishlist:item=-1513993763
 dimwishlist:item=-3653573172
 dimwishlist:item=-2817683783
 dimwishlist:item=-1366394399
@@ -365,6 +372,7 @@ dimwishlist:item=-946443267
 dimwishlist:item=-2697058914 
 
 //Machine Guns
+dimwishlist:item=-487205709
 dimwishlist:item=-603242241 
 dimwishlist:item=-1600633250 
 dimwishlist:item=-1642384931 
