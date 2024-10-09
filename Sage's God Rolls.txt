@@ -1,5 +1,5 @@
 title:Sage's God Rolls
-description:Pretty personalized for Sage's tastes, typically lazy rolls that don't require effort or upkeep
+description: https://raw.githubusercontent.com/SpoogLord/Sages-D2-Repository/refs/heads/main/Sage's%20God%20Rolls.txt
 
 // Senuna SI6 ()
 dimwishlist:item=5159537&perks=839105230,1968497646,2779035018,2610012052
