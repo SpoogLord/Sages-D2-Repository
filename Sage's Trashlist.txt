@@ -217,6 +217,7 @@ dimwishlist:item=-1865351684
 dimwishlist:item=-2744715540 
 dimwishlist:item=-3354242550 
 dimwishlist:item=-174192097 
+dimwishlist:item=-1786797708
 
 //Sidearms
 dimwishlist:item=-423343404
@@ -248,6 +249,7 @@ dimwishlist:item=-3465233192
 dimwishlist:item=-720351794 
 dimwishlist:item=-421573768 
 dimwishlist:item=-3410721600 
+dimwishlist:item=-1621657423
 
 //Shotguns
 dimwishlist:item=-731147177 
@@ -321,6 +323,7 @@ dimwishlist:item=-1684914716
 dimwishlist:item=-2154059444 
 dimwishlist:item=-1115104187 
 dimwishlist:item=-4190932264 
+dimwishlist:item=-893527433
 
 //Swords
 dimwishlist:item=-4174481098 
@@ -353,6 +356,7 @@ dimwishlist:item=-301362380
 dimwishlist:item=-218335759 
 dimwishlist:item=-1757129747 
 dimwishlist:item=-736901634 
+dimwishlist:item=-413901114
 
 //Rocket Launchers
 dimwishlist:item=-417474224 
