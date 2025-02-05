@@ -250,6 +250,7 @@ dimwishlist:item=-720351794
 dimwishlist:item=-421573768 
 dimwishlist:item=-3410721600 
 dimwishlist:item=-1621657423
+dimwishlist:item=-690341468
 
 //Shotguns
 dimwishlist:item=-731147177 
