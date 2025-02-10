@@ -1,8 +1,8 @@
-/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.01% armor V2.5*/ 
+/* Sage's vault analyzer super end-game edition | highlights trash | keeps top >.01% armor V2.51*/ 
 
 (
 	(
-		is:weapon -is:exotic -is:crafted -(source:raid -is:patternunlocked deepsight:harmonizable) ((-is:wishlist) or (is:wishlist is:patternunlocked))  -is:wishlistunknown
+		is:weapon -is:exotic -is:crafted -(source:raid -is:patternunlocked deepsight:harmonizable) ((-is:wishlist) or (is:wishlist is:patternunlocked)) -is:maxpowerloadout -is:wishlistunknown
 	)
 	or 
 	(
