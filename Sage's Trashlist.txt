@@ -162,6 +162,7 @@ dimwishlist:item=-3593598010
 dimwishlist:item=-1621558458 
 dimwishlist:item=-2276328320 
 dimwishlist:item=-2221264583
+dimwishlist:item=-1924276978
 
 //Hand Cannons
 dimwishlist:item=-2824241403 
@@ -305,6 +306,8 @@ dimwishlist:item=-930590127
 dimwishlist:item=-4124357815 
 dimwishlist:item=-4106983932 
 dimwishlist:item=-891996636
+dimwishlist:item=-768621510
+dimwishlist:item=-2943293195
 
 //Sniper Rifles
 dimwishlist:item=-2673925403
@@ -380,6 +383,7 @@ dimwishlist:item=-2186258845
 dimwishlist:item=-2817798849 
 dimwishlist:item=-1529450902 
 dimwishlist:item=-42351395
+dimwishlist:item=-1866778462
 
 //LFRs
 dimwishlist:item=-2502422775 
