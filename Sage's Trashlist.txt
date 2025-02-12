@@ -25,6 +25,7 @@ dimwishlist:item=-250721843
 dimwishlist:item=-617501162
 dimwishlist:item=-1331824604
 dimwishlist:item=-105164264
+dimwishlist:item=-2534546147
 
 //Autos
 dimwishlist:item=-3685470415
@@ -160,6 +161,7 @@ dimwishlist:item=-2050789284
 dimwishlist:item=-3593598010 
 dimwishlist:item=-1621558458 
 dimwishlist:item=-2276328320 
+dimwishlist:item=-2221264583
 
 //Hand Cannons
 dimwishlist:item=-2824241403 
@@ -218,6 +220,7 @@ dimwishlist:item=-2744715540
 dimwishlist:item=-3354242550 
 dimwishlist:item=-174192097 
 dimwishlist:item=-1786797708
+dimwishlist:item=-811403305
 
 //Sidearms
 dimwishlist:item=-423343404
@@ -251,6 +254,7 @@ dimwishlist:item=-421573768
 dimwishlist:item=-3410721600 
 dimwishlist:item=-1621657423
 dimwishlist:item=-690341468
+dimwishlist:item=-232928045
 
 //Shotguns
 dimwishlist:item=-731147177 
@@ -300,6 +304,7 @@ dimwishlist:item=-580961571
 dimwishlist:item=-930590127 
 dimwishlist:item=-4124357815 
 dimwishlist:item=-4106983932 
+dimwishlist:item=-891996636
 
 //Sniper Rifles
 dimwishlist:item=-2673925403
@@ -325,6 +330,7 @@ dimwishlist:item=-2154059444
 dimwishlist:item=-1115104187 
 dimwishlist:item=-4190932264 
 dimwishlist:item=-893527433
+dimwishlist:item=-4067556514
 
 //Swords
 dimwishlist:item=-4174481098 
@@ -373,6 +379,7 @@ dimwishlist:item=-308332265
 dimwishlist:item=-2186258845 
 dimwishlist:item=-2817798849 
 dimwishlist:item=-1529450902 
+dimwishlist:item=-42351395
 
 //LFRs
 dimwishlist:item=-2502422775 
@@ -381,6 +388,7 @@ dimwishlist:item=-3005879473
 dimwishlist:item=-3419149443 
 dimwishlist:item=-946443267 
 dimwishlist:item=-2697058914 
+dimwishlist:item=-999767358
 
 //Machine Guns
 dimwishlist:item=-487205709
@@ -390,3 +398,4 @@ dimwishlist:item=-1642384931
 dimwishlist:item=-1496419775 
 dimwishlist:item=-847329160 
 dimwishlist:item=-3369545945 
+dimwishlist:item=-1321506184
