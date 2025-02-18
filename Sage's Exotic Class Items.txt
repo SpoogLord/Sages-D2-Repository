@@ -1,3 +1,6 @@
+title:Sage's Exotic Class Items
+description:https://raw.githubusercontent.com/SpoogLord/Sages-D2-Repository/refs/heads/main/Sage's%20Exotic%20Class%20Items.txt
+
 //Solipsism
 dimwishlist:item=2273643087&perks=1476923952,1476923956
 dimwishlist:item=2273643087&perks=183430248,183430251
