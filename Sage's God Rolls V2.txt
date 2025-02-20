@@ -1,4 +1,5 @@
 title:Sage's God Rolls V2
+description:https://raw.githubusercontent.com/SpoogLord/Sages-D2-Repository/refs/heads/main/Sage's%20God%20Rolls%20V2.txt
 
 // Joxer's Longsword (pve)
 //notes: tags:pve
