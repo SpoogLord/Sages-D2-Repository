@@ -26,6 +26,14 @@ dimwishlist:item=-617501162
 dimwishlist:item=-1331824604
 dimwishlist:item=-105164264
 dimwishlist:item=-2534546147
+dimwishlist:item=-1246793994
+dimwishlist:item=-2326578623
+dimwishlist:item=-499245245
+dimwishlist:item=-217140611
+dimwishlist:item=-751880654
+dimwishlist:item=-4233375372
+dimwishlist:item=-3669616453
+dimwishlist:item=-2140635451
 
 //Autos
 dimwishlist:item=-3685470415
@@ -71,6 +79,8 @@ dimwishlist:item=-1248372789
 dimwishlist:item=-2869466318 
 dimwishlist:item=-1144014195 
 dimwishlist:item=-1390080550
+dimwishlist:item=-3678653083
+dimwishlist:item=-3678653083
 
 //Scouts
 dimwishlist:item=-2338088853 
@@ -285,6 +295,8 @@ dimwishlist:item=-1983332560
 dimwishlist:item=-3745974521 
 dimwishlist:item=-3993415705 
 dimwishlist:item=-3850168899 
+dimwishlist:item=-2761869150
+dimwishlist:item=-1125217994
 
 //Fusion Rifles
 dimwishlist:item=-1994645182
@@ -309,6 +321,8 @@ dimwishlist:item=-4106983932
 dimwishlist:item=-891996636
 dimwishlist:item=-768621510
 dimwishlist:item=-2943293195
+dimwishlist:item=-3228630258
+dimwishlist:item=-3953163559
 
 //Sniper Rifles
 dimwishlist:item=-2673925403
