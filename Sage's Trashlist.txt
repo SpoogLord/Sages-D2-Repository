@@ -34,6 +34,9 @@ dimwishlist:item=-751880654
 dimwishlist:item=-4233375372
 dimwishlist:item=-3669616453
 dimwishlist:item=-2140635451
+dimwishlist:item=-342027677
+dimwishlist:item=-3615421669
+dimwishlist:item=-2896109856
 
 //Autos
 dimwishlist:item=-3685470415
