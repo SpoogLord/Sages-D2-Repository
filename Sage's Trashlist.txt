@@ -2,7 +2,6 @@ title:Sage's Trash List
 description: https://raw.githubusercontent.com/SpoogLord/Sages-D2-Repository/refs/heads/main/Sage's%20Trashlist.txt
 
 dimwishlist:item=-2848549302
-dimwishlist:item=-2035738085
 dimwishlist:item=-2720651699
 dimwishlist:item=-3818198556
 dimwishlist:item=-2599338625
@@ -37,6 +36,8 @@ dimwishlist:item=-2140635451
 dimwishlist:item=-342027677
 dimwishlist:item=-3615421669
 dimwishlist:item=-2896109856
+dimwishlist:item=-2465372924
+dimwishlist:item=-1824586582
 
 //Autos
 dimwishlist:item=-3685470415
