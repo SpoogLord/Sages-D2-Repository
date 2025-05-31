@@ -1,6 +1,27 @@
 title:Sage's Trash List
 description: https://raw.githubusercontent.com/SpoogLord/Sages-D2-Repository/refs/heads/main/Sage's%20Trashlist.txt
 
+dimwishlist:item=-4066778670
+dimwishlist:item=-2496242052
+dimwishlist:item=-820890091
+dimwishlist:item=-407621213
+dimwishlist:item=-3165547384
+dimwishlist:item=-766323545
+dimwishlist:item=-2222560548
+dimwishlist:item=-1150492185
+dimwishlist:item=-1106635211
+dimwishlist:item=-2121785039
+dimwishlist:item=-664109750
+dimwishlist:item=-4287947559
+dimwishlist:item=-1296429091
+dimwishlist:item=-1678205741
+dimwishlist:item=-1835747805
+dimwishlist:item=-3044460004
+dimwishlist:item=-3460122497
+dimwishlist:item=-2322926844
+dimwishlist:item=-1056103557
+dimwishlist:item=-4096943616
+dimwishlist:item=-4100775158
 dimwishlist:item=-1097616550
 dimwishlist:item=-541188001
 dimwishlist:item=-5159537
