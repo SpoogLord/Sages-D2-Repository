@@ -3414,7 +3414,6 @@
                 ],
                 [
                     3081867624,
-                    2387244414,
                     31345821
                 ]
             ],
@@ -3444,7 +3443,6 @@
                     3017780555
                 ],
                 [
-                    31345821,
                     4293542123
                 ]
             ],
@@ -3475,7 +3473,6 @@
                 ],
                 [
                     3081867624,
-                    2387244414,
                     31345821
                 ]
             ],
@@ -3505,7 +3502,6 @@
                     3017780555
                 ],
                 [
-                    31345821,
                     4293542123
                 ]
             ],
@@ -3536,7 +3532,6 @@
                 ],
                 [
                     3081867624,
-                    2387244414,
                     31345821
                 ]
             ],
@@ -3566,7 +3561,6 @@
                     3017780555
                 ],
                 [
-                    31345821,
                     4293542123
                 ]
             ],
@@ -3597,7 +3591,6 @@
                 ],
                 [
                     3081867624,
-                    2387244414,
                     31345821
                 ]
             ],
@@ -3627,7 +3620,6 @@
                     3017780555
                 ],
                 [
-                    31345821,
                     4293542123
                 ]
             ],
@@ -13421,7 +13413,7 @@
             ]
         },
         {
-            "description": "testing needed",
+            "description": "KT procs in 2 hits, kinda funny and wild imo",
             "hash": 2838279629,
             "name": "",
             "plugs": [
@@ -13450,7 +13442,7 @@
             ]
         },
         {
-            "description": "testing needed",
+            "description": "",
             "hash": 471764396,
             "name": "",
             "plugs": [
@@ -13470,7 +13462,6 @@
                     247725512
                 ],
                 [
-                    2890807135,
                     2319119708,
                     3365897133
                 ]
@@ -13539,7 +13530,7 @@
             "tags": []
         },
         {
-            "description": "some testing needed but pretty sick perk pool, also an arc mountaintop",
+            "description": "Reapers Tithe seems good but i feel like finding a tight cluster of 4 ads is super rare?\nI guess that's more reason to use volatile launch",
             "hash": 4146673635,
             "name": "",
             "plugs": [
@@ -13776,7 +13767,7 @@
             "tags": []
         },
         {
-            "description": "burning ambition needs data",
+            "description": "burning ambition is ass",
             "hash": 4146673634,
             "name": "",
             "plugs": [
@@ -13793,8 +13784,6 @@
                     3987942396
                 ],
                 [
-                    2890807135,
-                    2888557110,
                     3078487919,
                     3194351027
                 ],
