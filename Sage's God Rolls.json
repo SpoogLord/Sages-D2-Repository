@@ -12744,7 +12744,7 @@
             ]
         },
         {
-            "description": "i still dont think ive ever equipped a heavy wave sword.",
+            "description": "i still dont think ive ever equipped a heavy wave sword.\napparently sharp harvest is really good for Mint Retrograde",
             "hash": 2111625436,
             "name": "",
             "plugs": [
@@ -12756,7 +12756,8 @@
                     269888150
                 ],
                 [
-                    3108830275
+                    3108830275,
+                    4132187021
                 ],
                 [
                     4049631843,
@@ -12915,7 +12916,7 @@
             ]
         },
         {
-            "description": "needs some experimentating",
+            "description": "this things a lil busted.",
             "hash": 42435996,
             "name": "",
             "plugs": [
@@ -12935,7 +12936,6 @@
                     3418782618
                 ],
                 [
-                    3081867624,
                     4049631843
                 ],
                 [
@@ -12948,7 +12948,7 @@
             ]
         },
         {
-            "description": "could be crazy",
+            "description": "This thing just has a lot of things people would want on a shotgun, atm I'm not too sure which will be meta so heres my watchlist",
             "hash": 3981920134,
             "name": "",
             "plugs": [
@@ -12957,74 +12957,6 @@
                     1482024992,
                     1300023272,
                     4090651448
-                ],
-                [
-                    3142289711,
-                    106909392,
-                    3230963543
-                ],
-                [
-                    2579169598,
-                    1451849462,
-                    4071163871,
-                    1126264488
-                ],
-                [
-                    3673922083,
-                    1194056669,
-                    2109543898,
-                    47981717
-                ],
-                [
-                    1673863459
-                ]
-            ],
-            "tags": [
-                "PVP"
-            ]
-        },
-        {
-            "description": "could be crazy",
-            "hash": 3981920134,
-            "name": "",
-            "plugs": [
-                [
-                    1332244541,
-                    1482024992,
-                    1300023272,
-                    4090651448
-                ],
-                [
-                    3142289711,
-                    106909392,
-                    3230963543
-                ],
-                [
-                    1546637391,
-                    1126264488
-                ],
-                [
-                    2679249093,
-                    2360754333
-                ],
-                [
-                    1673863459
-                ]
-            ],
-            "tags": [
-                "PVE"
-            ]
-        },
-        {
-            "description": "",
-            "hash": 3496887154,
-            "name": "",
-            "plugs": [
-                [
-                    839105230,
-                    4090651448,
-                    1840239774,
-                    1482024992
                 ],
                 [
                     3142289711,
@@ -13033,20 +12965,19 @@
                 ],
                 [
                     1126264488,
-                    4071163871,
-                    1451849462
+                    2579169598
                 ],
                 [
-                    4293542123,
                     2679249093,
-                    4104185692
+                    47981717,
+                    1194056669
                 ],
                 [
-                    3911709647
+                    1673863459
                 ]
             ],
             "tags": [
-                "PVE"
+                "PVP"
             ]
         },
         {
@@ -13137,7 +13068,7 @@
             ]
         },
         {
-            "description": "THIS THING IS GONNA BE GOATED",
+            "description": "Yeartide Apex\nTHIS THING IS GONNA BE GOATED\ntesting needed on burning ambition tho",
             "hash": 3293207827,
             "name": "",
             "plugs": [
@@ -13155,9 +13086,7 @@
                     679225683
                 ],
                 [
-                    3017780555,
-                    243981275,
-                    3523296417
+                    3017780555
                 ],
                 [
                     2890807135,
@@ -13165,7 +13094,43 @@
                     3640170453
                 ],
                 [
-                    1380061575
+                    1380061575,
+                    1198287879
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Yeartide Apex\nTHIS THING IS GONNA BE GOATED\ntesting needed on burning ambition tho",
+            "hash": 2965080304,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1968497646,
+                    1561002382,
+                    1885400500,
+                    3230963543,
+                    679225683
+                ],
+                [
+                    3017780555
+                ],
+                [
+                    2890807135,
+                    4293542123,
+                    3640170453
+                ],
+                [
+                    1380061575,
+                    1198287879
                 ]
             ],
             "tags": [
@@ -13421,19 +13386,16 @@
                     2822142346
                 ],
                 [
-                    684456054,
                     1523832109
                 ],
                 [
-                    2173046394,
-                    4104185692,
                     113508675
                 ]
             ],
             "tags": []
         },
         {
-            "description": "",
+            "description": "Festival Flight",
             "hash": 4019651319,
             "name": "",
             "plugs": [
@@ -13446,13 +13408,41 @@
                     2822142346
                 ],
                 [
-                    3987942396,
-                    2010801679
+                    2010801679,
+                    3523296417
                 ],
                 [
                     243981275,
-                    4049631843,
-                    4104185692
+                    4049631843
+                ],
+                [
+                    1380061575
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Festival Flight",
+            "hash": 3977654524,
+            "name": "",
+            "plugs": [
+                [
+                    1478423395,
+                    981914802,
+                    3525010810
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    2010801679,
+                    3523296417
+                ],
+                [
+                    243981275,
+                    4049631843
                 ],
                 [
                     1380061575
@@ -13519,7 +13509,7 @@
             "tags": []
         },
         {
-            "description": "",
+            "description": "Ribbontail",
             "hash": 3576134513,
             "name": "",
             "plugs": [
@@ -13542,8 +13532,7 @@
                 ],
                 [
                     557221067,
-                    960997401,
-                    3201496230
+                    960997401
                 ]
             ],
             "tags": [
@@ -13551,8 +13540,8 @@
             ]
         },
         {
-            "description": "",
-            "hash": 3576134513,
+            "description": "Ribbontail",
+            "hash": 407150811,
             "name": "",
             "plugs": [
                 [
@@ -13570,11 +13559,42 @@
                     732557052
                 ],
                 [
-                    4071163871
+                    1820235745
                 ],
                 [
-                    960997401,
-                    3201496230
+                    557221067,
+                    960997401
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Ribbontail",
+            "hash": 407150810,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    1483536627,
+                    2680121939,
+                    3868766766,
+                    2969185026,
+                    2749775325,
+                    732557052
+                ],
+                [
+                    1820235745
+                ],
+                [
+                    557221067,
+                    960997401
                 ]
             ],
             "tags": [
@@ -13969,11 +13989,206 @@
             "tags": []
         },
         {
-            "description": "need to test burning ambition on this thing",
-            "hash": 3293207827,
+            "description": "this things a lil busted.",
+            "hash": 42435996,
             "name": "",
-            "plugs": [],
+            "plugs": [
+                [
+                    1478423395,
+                    981914802,
+                    3525010810
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    2822142346,
+                    3492396210,
+                    1380253176
+                ],
+                [
+                    3987942396
+                ],
+                [
+                    3078487919
+                ],
+                [
+                    3454102905
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Phoneutria Fera\nkinda funny as a shotgun alternative\ncan 3 tap at sorta close range, or can 1 shot one melee at shotgun range\n1-2p is also viable in pve, though not as strong as it is on shotguns",
+            "hash": 3496887154,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3161816588,
+                    1126264488
+                ],
+                [
+                    4082225868,
+                    2679249093
+                ],
+                [
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Phoneutria Fera\nkinda funny as a shotgun alternative\ncan 3 tap at sorta close range, or can 1 shot one melee at shotgun range\n1-2p is also viable in pve, though not as strong as it is on shotguns",
+            "hash": 3804242792,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3161816588,
+                    1126264488
+                ],
+                [
+                    4082225868,
+                    2679249093
+                ],
+                [
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "Phoneutria Fera\nkinda funny as a shotgun alternative\ncan 3 tap at sorta close range, or can 1 shot one melee at shotgun range\n1-2p is also viable in pve, though not as strong as it is on shotguns",
+            "hash": 3804242793,
+            "name": "",
+            "plugs": [
+                [
+                    839105230,
+                    4090651448,
+                    1840239774,
+                    1482024992
+                ],
+                [
+                    3142289711,
+                    106909392,
+                    3230963543
+                ],
+                [
+                    3161816588,
+                    1126264488
+                ],
+                [
+                    4082225868,
+                    2679249093
+                ],
+                [
+                    3911709647
+                ]
+            ],
+            "tags": [
+                "PVP",
+                "PVE"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 4146673635,
+            "name": "",
+            "plugs": [
+                [
+                    1478423395,
+                    981914802,
+                    3525010810
+                ],
+                [
+                    3301904089,
+                    2822142346
+                ],
+                [
+                    684456054
+                ],
+                [
+                    2173046394
+                ]
+            ],
             "tags": []
+        },
+        {
+            "description": "Fortunate Star\nVoid Combo",
+            "hash": 2631466936,
+            "name": "",
+            "plugs": [
+                [
+                    2801223209,
+                    852209214
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2048641572,
+                    1464081238
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
+        },
+        {
+            "description": "Fortunate Star\nVoid Combo",
+            "hash": 591672323,
+            "name": "",
+            "plugs": [
+                [
+                    2801223209,
+                    852209214
+                ],
+                [
+                    3429800428
+                ],
+                [
+                    776531651
+                ],
+                [
+                    2048641572,
+                    1464081238
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ]
         }
     ]
 }
